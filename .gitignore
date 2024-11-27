@@ -1,3 +1,5 @@
 .env
 .aider*
 .pl
+*.sublime-project
+*.sublime-workspace
