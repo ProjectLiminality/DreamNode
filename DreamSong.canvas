@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"224b6f4ffaf9a2bb","type":"file","file":"DreamNode/DreamNode.png","x":-180,"y":-940,"width":400,"height":400},
+		{"id":"43337ab7be7d7a76","x":340,"y":-795,"width":280,"height":110,"type":"text","text":"The DreamNode is the fundamental unit of ProjectLiminality"}
+	],
+	"edges":[
+		{"id":"d95dec4fdc160add","fromNode":"224b6f4ffaf9a2bb","fromSide":"right","toNode":"43337ab7be7d7a76","toSide":"left","toEnd":"none"}
+	]
+}
