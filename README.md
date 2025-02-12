@@ -23,7 +23,7 @@ Video/audio files can be stored in the DreamNode itself and linked directly:
 
 Or hosted through any other service and linked via an appropriate URL:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VKFoSdBelvs?start=180&end=405" frameborder="0" allowfullscreen></iframe>
+- [Jeff Emmet <> David Rug](https://www.youtube.com/embed/VKFoSdBelvs?start=180&end=405)
 
 
 # Usage
